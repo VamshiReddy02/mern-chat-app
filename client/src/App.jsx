@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import './App.css'
+import './index.scss'
 
 function App() {
   return (
@@ -15,3 +15,4 @@ function App() {
 }
 
 export default App
+ 
